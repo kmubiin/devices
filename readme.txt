@@ -12,6 +12,7 @@ as useful to someone other than the author himself.
 News and TODO
 ====================
 
-| [2023-01-16] created repository for this project
+| [2023-01-16] make repository for this project
 | [2023-01-23] first commit with readme.txt
+| [2023-02-13] make .rst symbolic link to view pretty
 | **TODO** what is all about
