@@ -16,4 +16,5 @@ News and TODO
 | [2023-01-23] first commit with readme.txt
 | [2023-02-13] make .rst symbolic link to view pretty
 | [2023-03-23] make separate branch to prepare contents
+| [2023-04-03] use gitignore with pattern that can merge
 | **TODO** what is all about
