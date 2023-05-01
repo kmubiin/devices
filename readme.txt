@@ -17,4 +17,5 @@ News and TODO
 | [2023-02-13] make .rst symbolic link to view pretty
 | [2023-03-23] make separate branch to prepare contents
 | [2023-04-03] use gitignore with pattern that can merge
+| [2023-05-01] make plan directory to save some thoughts
 | **TODO** what is all about
