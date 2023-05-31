@@ -1,0 +1,85 @@
+Project start
+--------------------
+
+Getting started:
+
+- purpose: self-maintained documentation
+- repository: kmubiin/devices
+- contents: plain text (TXT and HTML), with some markup
+- policy: open source, but closed contribution
+- licensing: tentatively CC-BY-SA
+
+The purpose:
+
+- key idea: any device of interest that may be maintained
+  for lifetime, deserves to have some documentation
+- the plural noun 'devices' may include: everyday items,
+  hand tools, consumer devices, modules and parts, battery
+  or cell itself
+- documentation heavily based on personal user experience,
+  which may or may not be relevant to other users
+
+The repository:
+
+- branches: original ('main'), sub ('docs|page|html'?),
+  transient (name by release or revision date)
+- subsidiary branch has one name to be decided #later
+- transient branch can be removed at anytime, and merging
+  by `git merge --no-ff <branch>` will remember the branch
+  in the history regardless
+- original branch to prepare contents as TXT
+- separate, subsidiary branch to publish contents as HTML
+- separate, transient branch to make some changes between
+  releases that would take some time and effort to do
+
+The contents:
+
+- markup: reStructuredText (reST)
+- use markup text to prepare contents, and save as TXT
+- use markup tool to publish as HTML when ready
+- put documentation first, pretty output last;
+- one file for each device (N)
+- one file for each issue (Q)
+- one file for each changelog with revision date (YYYYMMDD)
+- more details to be explained #later
+
+The policy:
+
+- source (text) is open and accessible, but this project
+  would not accept any contribution from the public;
+- the author however, may acknowledge any notable mentions
+  or comments that may have indirectly helped this project
+- disable pull request--not possible at this time;
+- otherwise use pull request as a feedback channel, which
+  may be open or closed, to be explained #later
+- contributing file to be included #later
+
+The licensing:
+
+- source text may be licensed under Creative Commons
+  Attribution and Share-Alike (CC-BY-SA)
+- source code may be licensed under different terms,
+  if any, depending on coding language and usage #later
+- license file to be included #later
+
+Anything else:
+
+- releases: N.Q (device/issue counts)
+- releases to use minimal versioning that is least semantic
+  and may not be sequential likewise: 1.0, 2.1, 3.3...
+- non-releases: N.Q-YYYYMMDD (with revision date)
+- non-releases to make changes to existing contents only,
+  with no additional device/issue
+- always use lowercase alphanumeric characters for naming
+  files and writing commit messages
+- use UPPERCASE or Mixed Case for writing the correct and
+  accurate information within the file itself
+- graphical representation may be included alongside text,
+  but method/format to be decided #later
+- steps to publish as HTML may be automated #later
+
+----
+
+This plan is based on the impromptu notes in early 2023,
+which had few revisions over months, now rewritten here.
+Review #later at some point.
