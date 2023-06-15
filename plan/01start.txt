@@ -79,6 +79,6 @@ Anything else:
   but method/format to be decided #later
 - steps to publish as HTML may be automated #later
 
-NOTE: This plan is based on the some notes in early 2023,
+NOTE: This plan is based on my own notes in early 2023,
 which had few revisions over months, now rewritten here.
 Review #later at some point.
