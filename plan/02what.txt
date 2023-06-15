@@ -1,0 +1,70 @@
+""""""""""""""""""""
+What is what
+""""""""""""""""""""
+
+``kmubiin/devices`` is a project to document things.
+
+Key idea explained from start:
+
+    Any device of interest that may be maintained
+    for lifetime, deserves to have some documentation.
+
+Key terms explained from idea:
+
+"device of interest"  
+  Some known or own things selected by the project owner.
+  That must be functional, not broken for some time and yet
+  usable, at least until some documentation was written.
+
+"for lifetime"  
+  As long as the thing works indefinitely, or works beyond
+  its service life, provided some parts and maintenance.
+
+"some documentation"  
+  Notes that are written based on some experience of using
+  the device, which may be limited as a result.
+
+Further explained:
+
+Devices are presumably things that were mass-produced by
+machines or replicated by humans. Devices are either:
+
+- purchased off-the-shelf, or
+- made from source by users themselves.
+
+The plural noun 'devices' may include any of these:
+
+- everyday items: torch or flashlight, watch, stationery,
+  calculator, scales, thermometer
+- handy tools: pocket tool, soldering iron, multimeter
+- consumer devices: mobile phones, computers, camera,
+  printer and scanner, media player
+- modules: cable, connector, adapter, battery charger
+- parts: electronic kit, repairable or compatible parts
+- battery or cell itself
+
+Items with similar traits and subtle differences, may be
+documented as "one device". Any items having a similar
+product number or same base model, would most likely be
+counted as "one device". Such items may be:
+
+- a reusable writing pen that has refill ink catridge, with
+  different colours and tip sizes;
+- mobile phones of same base model, but different internals
+  such as memory and storage size, and supported networks
+- rechargeable battery of particular make with different
+  size and capacity
+
+Some items may have a common product name, but the actual
+products are not identical. Even so, such items made by
+different standards may also be documented as "one device".
+Such items are not uncommon:
+
+- mobile battery pack from original and third-party makers
+  with a common product name, but different capacity
+- integrated circuits (ICs) or semiconductor parts with a
+  common product name, but given addtional prefix or suffix
+  based on their manufacturer or product design
+
+Else, any unique item with limited information may be
+documented as "one device".

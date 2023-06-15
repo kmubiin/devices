@@ -18,5 +18,6 @@ News and TODO
 | [2023-03-23] make separate branch to prepare contents
 | [2023-04-03] use gitignore with pattern that can merge
 | [2023-05-01] make plan directory to save some thoughts
-| [2023-05-31] first plan: 01start.txt
-| **TODO** what is all about
+| [2023-05-31] plan/01start.txt
+| [2023-06-15] plan/02what.txt
+| **TODO** why do this project
