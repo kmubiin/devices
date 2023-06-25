@@ -9,6 +9,8 @@ This project intends to keep some notes of the author's
 known or own devices. Such documentation may or may not be
 as useful to someone other than the author himself.
 
+More information: `<plan/>`_
+
 News and TODO
 ====================
 
@@ -17,7 +19,8 @@ News and TODO
 | [2023-02-13] make .rst symbolic link to view pretty
 | [2023-03-23] make separate branch to prepare contents
 | [2023-04-03] use gitignore with pattern that can merge
-| [2023-05-01] make plan directory to save some thoughts
+| [2023-05-01] make 'plan' directory to save some thoughts
 | [2023-05-31] plan/01start.txt
 | [2023-06-15] plan/02what.txt
+| [2023-06-25] make 'plan' linkable from readme.txt
 | **TODO** why do this project

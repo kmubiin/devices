@@ -4,8 +4,8 @@ This directory will save some thoughts for this project.
     -- relevant quote but unknown origin
 
 IMPORTANT: Just make a plan or have an intention to do;
-however, the plan itself not necessary be followed and
-may be subject to changes from time to time.
+however, the plan itself may be revised from time to time
+and not necessarily be followed at any time.
 
 
 Some comments as follows.
