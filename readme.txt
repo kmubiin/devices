@@ -23,4 +23,5 @@ News and TODO
 | [2023-05-31] plan/01start.txt
 | [2023-06-15] plan/02what.txt
 | [2023-06-25] make 'plan' linkable from readme.txt
+| [2023-07-05] extend "one device" under 'what'
 | **TODO** why do this project

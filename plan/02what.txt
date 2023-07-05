@@ -66,5 +66,22 @@ Such items are not uncommon:
   common product name, but given addtional prefix or suffix
   based on their manufacturer or product design
 
+Some common product names may not refer to just one item,
+and instead refer to multiple related items. Such items
+would belong to the same product family, but each would be
+documented collectively as "one device".
+
+- rechargeable battery and charger may share a common
+  product name, but battery with compatible size/capacity
+  are grouped as "one device", and charger of one type is
+  another "one device"
+- semiconductor parts of the same product family, whose
+  variants of one type are grouped as "one device";
+- 5V regulators from the 7800 series of different make,
+  such as 7805, L78L05, LM78M05, are all "one device";
+- 12V regulators from the 7800 series of different make,
+  are all another "one device", which is counted separate
+  from the 5V ones, even from the same 7800 series
+
 Else, any unique item with limited information may be
 documented as "one device".
