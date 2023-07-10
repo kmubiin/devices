@@ -24,7 +24,7 @@ Key terms explained from idea:
   Notes that are written based on some experience of using
   the device, which may be limited as a result.
 
-Further explained:
+What are devices:
 
 Devices are presumably things that were mass-produced by
 machines or replicated by humans. Devices are either:
@@ -43,6 +43,8 @@ The plural noun 'devices' may include any of these:
 - parts: electronic kit, repairable or compatible parts
 - battery or cell itself
 
+What makes "one device":
+
 Items with similar traits and subtle differences, may be
 documented as "one device". Any items having a similar
 product number or same base model, would most likely be
@@ -55,21 +57,32 @@ counted as "one device". Such items may be:
 - rechargeable battery of particular make with different
   size and capacity
 
-Some items may have a common product name, but the actual
-products are not identical. Even so, such items made by
-different standards may also be documented as "one device".
-Such items are not uncommon:
+Some items may have a common product name, or may be based
+on certain base model, but the products are not identical.
+Items made by different standards, could be documented as
+"one device". Such items are not uncommon:
 
 - mobile battery pack from original and third-party makers
   with a common product name, but different capacity
-- integrated circuits (ICs) or semiconductor parts with a
-  common product name, but given addtional prefix or suffix
-  based on their manufacturer or product design
+- semiconductor parts with a common product name, but given
+  addtional prefix or suffix based on their manufacturer or
+  product design;
+- LM358 is an integrated circuit (IC), of dual operational
+  amplifiers that has few variations by make: LM358P and
+  LM358N for the package type PDIP-8; LM358A, LM358D, and
+  LM358E for the package type SOIC-8
+- LM358 with P, N, A, D, E suffixes are not exactly same,
+  but given the common product name, these are "one device"
+- LM158, LM258, and LM2904 are other variations of LM358;
+  despite different product numbers and design, these are
+  also "one device"
+- both the suffix and other variations of LM358, included
+  altogether, could be documented as "one device"
 
 Some common product names may not refer to just one item,
 and instead refer to multiple related items. Such items
 would belong to the same product family, but each would be
-documented collectively as "one device".
+documented collectively as "one device". Such items are:
 
 - rechargeable battery and charger may share a common
   product name, but battery with compatible size/capacity
@@ -77,11 +90,14 @@ documented collectively as "one device".
   another "one device"
 - semiconductor parts of the same product family, whose
   variants of one type are grouped as "one device";
-- 5V regulators from the 7800 series of different make,
-  such as 7805, L78L05, LM78M05, are all "one device";
-- 12V regulators from the 7800 series of different make,
-  are all another "one device", which is counted separate
-  from the 5V ones, even from the same 7800 series
+- the 7800 series are positive voltage regulators, in which
+  +5V regulators of different make, such as μA7805, L78L05,
+  L7805, LM78M05, LM78H05K, are all "one device"
+- likewise +12V regulators from the same series, are all
+  another "one device", which is separate from +5V ones
+- other product family such as the 7900 series (negative
+  voltage regulators), and the LE00 series (very low drop
+  regulators), would be grouped each like the 7800 series
 
 Else, any unique item with limited information may be
 documented as "one device".
