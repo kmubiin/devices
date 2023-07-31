@@ -29,7 +29,8 @@ The repository:
   by `git merge --no-ff <branch>` will remember the branch
   in the history regardless
 - original branch to prepare contents as TXT
-- separate, subsidiary branch to publish contents as HTML
+- separate, subsidiary branch to prepare contents as HTML
+  and publish static pages from this branch
 - separate, transient branch to make some changes between
   releases that would take some time and effort to do
 
@@ -37,7 +38,7 @@ The contents:
 
 - markup: reStructuredText (reST)
 - use markup text to prepare contents, and save as TXT
-- use markup tool to publish as HTML when ready
+- use markup tool to save as HTML
 - put documentation first, pretty output last;
 - one file for each device (N)
 - one file for each issue (Q)
@@ -46,10 +47,17 @@ The contents:
 
 The policy:
 
-- source (text) is open and accessible, but this project
-  would not accept any contribution from the public;
+- publish contents only when ready;
+- source text (TXT) is intended for editing and viewing as is,
+  and prepared by releases and non-releases
+- static page (HTML) is intended for viewing from a web
+  browser, and prepared by releases only
+- source is open and accessible, except this project itself
+  does not accept any contribution from the public;
 - the author however, may acknowledge any notable mentions
   or comments that may have indirectly helped this project
+- disable merge squash (keep history as-it-happened)
+- disable rebase (keep branches as-used-to)
 - disable pull request--not possible at this time;
 - otherwise use pull request as a feedback channel, which
   may be open or closed, to be explained #later
@@ -77,7 +85,8 @@ Anything else:
   accurate information within the file itself
 - graphical representation may be included alongside text,
   but method/format to be decided #later
-- steps to publish as HTML may be automated #later
+- steps to save as HTML (offline) and publish static pages
+  (online) may be automated #later
 
 NOTE: This plan is based on my own notes in early 2023,
 which had few revisions over months, now rewritten here.
