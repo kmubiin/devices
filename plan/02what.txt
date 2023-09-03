@@ -101,3 +101,20 @@ documented collectively as "one device". Such items are:
 
 Else, any unique item with limited information may be
 documented as "one device".
+
+What becomes "unmaintainable device":
+
+Devices may be very difficult to maintain from time to time.
+Any device of interest becomes unmaintainable by having one
+or more aging conditions.
+
+Some aging conditions may include:
+
+- the device is permanently broken
+- the device is broken and not repairable for any reason
+- the device has frequent breakdown history
+- the device has less common replacement parts
+- the device has limited use cases
+
+When one or more aging conditions are met, efforts to
+document such device may be discontinued promptly.
