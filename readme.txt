@@ -27,4 +27,5 @@ News and TODO
 | [2023-07-10] edit criteria and examples under 'what'
 | [2023-07-31] edit contents and policy under 'start'
 | [2023-09-03] add "unmaintainable device" under 'what'
+| [2023-09-30] remove "consumer devices" under 'what'
 | **TODO** why do this project

@@ -37,10 +37,9 @@ The plural noun 'devices' may include any of these:
 - everyday items: torch or flashlight, watch, stationery,
   calculator, scales, thermometer
 - handy tools: pocket tool, soldering iron, multimeter
-- consumer devices: mobile phones, computers, camera,
-  printer and scanner, media player
 - modules: cable, connector, adapter, battery charger
-- parts: electronic kit, repairable or compatible parts
+- portable devices and electronic kits, which make use of
+  widely compatible parts and make repairing easy
 - battery or cell itself
 
 What makes "one device":
