@@ -7,15 +7,16 @@ Getting started:
 - purpose: self-maintained documentation
 - repository: kmubiin/devices
 - contents: plain text (TXT and HTML), with some markup
-- policy: open source, but closed contribution
-- licensing: tentatively CC-BY-SA
+- policy: open source, but closed contribution, else may
+  acknowledge co-authors for some contribution
+- licensing: tentatively CC-BY-SA, else undecided
 
 The purpose:
 
 - key idea: any device of interest that may be maintained
   for lifetime, deserves to have some documentation
 - the plural noun 'devices' may include: everyday items,
-  hand tools, consumer devices, modules and parts, battery
+  hand tools, portable devices and electronic kits, battery
   or cell itself
 - documentation heavily based on personal user experience,
   which may or may not be relevant to other users

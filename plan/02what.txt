@@ -116,4 +116,6 @@ Some aging conditions may include:
 - the device has limited use cases
 
 When one or more aging conditions are met, efforts to
-document such device may be discontinued promptly.
+document such device may be discontinued promptly. One last
+thing to note, preferably, would be other maintainable
+devices to use instead, if any.
