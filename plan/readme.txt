@@ -8,10 +8,13 @@ however, the plan itself may be revised from time to time
 and not necessarily be followed at any time.
 
 
-Some comments as follows.
+.. Following are some comments (hidden upon preview)
+   to take note of incomplete plans
 
-.. Heading text with double-quote will be formatted only in
-   reStructuredText, yet literal in Markdown and AsciiDoc.
+.. of markup: Heading text with double-quote will be
+   formatted only in reStructuredText, yet literal in
+   Markdown and AsciiDoc.
 
-.. Note admonition from AsciiDoc will be used in place of
-   marker text to ensure sane viewing, even not formatted.
+.. of markup: Note admonition from AsciiDoc will be
+   used in place of marker text to ensure sane viewing,
+   even not formatted.
