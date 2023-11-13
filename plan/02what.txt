@@ -42,6 +42,16 @@ The plural noun 'devices' may include any of these:
   widely compatible parts and make repairing easy
 - battery or cell itself
 
+Some devices may not be included for reasons:
+
+- unidentified product model and/or branding
+- non-replicable or custom-made product
+- non-obtainable or limited-made product
+
+Else, such items with less-to-zero maintenance, and
+otherwise repaired or repairable with non-original parts
+are both "devices" that may be included.
+
 What makes "one device":
 
 Items with similar traits and subtle differences, may be
@@ -117,5 +127,5 @@ Some aging conditions may include:
 
 When one or more aging conditions are met, efforts to
 document such device may be discontinued promptly. One last
-thing to note, preferably, would be other maintainable
-devices to use instead, if any.
+thing to note, preferably, would be suggestion of other
+maintainable devices to use instead, if any.
