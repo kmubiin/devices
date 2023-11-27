@@ -48,8 +48,8 @@ Some devices may not be included for reasons:
 - non-replicable or custom-made product
 - non-obtainable or limited-made product
 
-Else, such items with less-to-zero maintenance, and
-otherwise repaired or repairable with non-original parts
+Generally, any item that does not require much maintenance,
+and otherwise repaired or repairable with compatible parts
 are both "devices" that may be included.
 
 What makes "one device":
@@ -108,7 +108,7 @@ documented collectively as "one device". Such items are:
   voltage regulators), and the LE00 series (very low drop
   regulators), would be grouped each like the 7800 series
 
-Else, any unique item with limited information may be
+Generally, any unique item with known information may be
 documented as "one device".
 
 What becomes "unmaintainable device":
@@ -125,7 +125,7 @@ Some aging conditions may include:
 - the device has less common replacement parts
 - the device has limited use cases
 
-When one or more aging conditions are met, efforts to
-document such device may be discontinued promptly. One last
-thing to note, preferably, would be suggestion of other
-maintainable devices to use instead, if any.
+Generally, when one or more aging conditions are met,
+efforts to document such device may be discontinued at all.
+One last thing to note, preferably, would be suggestion of
+other maintainable devices to use instead, if any.
