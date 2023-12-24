@@ -32,4 +32,5 @@ News and TODO
 | [2023-11-07] edit readme for each directory
 | [2023-11-13] edit criteria and suggestion under 'what'
 | [2023-11-27] edit criteria "generally" under 'what'
+| [2023-12-24] edit description under 'start'
 | **TODO** why do this project

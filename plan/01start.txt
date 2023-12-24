@@ -34,11 +34,18 @@ The repository:
   and publish static pages from this branch
 - separate, transient branch to make some changes between
   releases that would take some time and effort to do
+- folders: plan (added 2023-05), else undecided
+- one folder to contain all project plans (TXT as is)
+- one folder to contain all source text (TXT)
+- one folder to contain all output text (HTML)
+- each folder to have subsidiary folders for keeping files
+  in some order (refer to "The contents")
 
 The contents:
 
 - markup: reStructuredText (reST)
-- use markup text to prepare contents, and save as TXT
+- use markup text to write contents and use plain text
+  editor to open and save as TXT
 - use markup tool to save as HTML
 - put documentation first, pretty output last;
 - one file for each device (N)
