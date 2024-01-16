@@ -33,4 +33,5 @@ News and TODO
 | [2023-11-13] edit criteria and suggestion under 'what'
 | [2023-11-27] edit criteria "generally" under 'what'
 | [2023-12-24] edit description under 'start'
+| [2024-01-16] make 'olds' directory to save dated news
 | **TODO** why do this project
