@@ -1,0 +1,12 @@
+""""""""""""""""""""
+Why document things
+""""""""""""""""""""
+
+This idiom is whimsical, yet relevant:
+
+    "to leave someone to his or her own devices"
+
+That means, to let them do what he or she wishes.
+
+``kmubiin/devices`` has been manifested by the author's
+selfish hope to maintain his own devices (literally).

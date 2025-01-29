@@ -16,4 +16,5 @@ News and TODO
 
 | [2024-01-16] make 'olds' directory to save dated news
 | [2024-01-31] olds/dated/2023.txt
-| **TODO** why do this project
+| [2025-01-29] plan/03why.txt
+| **TODO** write example under plan
